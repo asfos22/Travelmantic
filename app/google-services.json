@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053873532329",
+    "firebase_url": "https://andela-95737.firebaseio.com",
+    "project_id": "andela-95737",
+    "storage_bucket": "andela-95737.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053873532329:android:293c460abe4be765",
+        "android_client_info": {
+          "package_name": "com.andela.travelmantic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053873532329-uf0g2gg6edcdci80t2gjkadegi7hp4rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvZt3yc0h1UXRjp5suk0B5C3hczJReijU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053873532329-uf0g2gg6edcdci80t2gjkadegi7hp4rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
